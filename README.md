@@ -1,8 +1,10 @@
 # NYC Citibike Analysis
 ## Citibike Overview
 There is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, we have prepared visualizations that will show the length of time that bikes are checked out for all riders and genders, show the number of bike trips for all riders and genders for each hour of each day of the week, and show the number of bike trips for each type of user and gender for each day of the week.
+
 ## Tableau Dashboard
-[Link to Dashboard]("https://public.tableau.com/shared/98F2YQ24D?:display_count=n&:origin=viz_share_link")
+[Link to Dashboard](https://public.tableau.com/shared/3JZ7ZSJ2Z?:display_count=n&:origin=viz_share_link)
+
 ## Analysis
 - The "Checkout Times by Users" visual shows that Riders typically only use the Citibikes for 'quick trips' rather than for long journeys. The Most Riders (146,752) used the bike for 5 Minutes while the least amount of riders (33) used the bikes for 2 Hours and 59 Minutes. 
 <img width="1064" alt="Screen Shot 2022-03-27 at 11 26 58 AM" src="https://user-images.githubusercontent.com/95304025/160288757-ccecd6f5-152e-4534-ac39-967e457b6273.png">
